@@ -1,0 +1,11 @@
+D:\programming advices\My Projects\Tic Tak Toy\bin\Debug\Tic Tak Toy.exe.config
+D:\programming advices\My Projects\Tic Tak Toy\bin\Debug\Tic Tak Toy.exe
+D:\programming advices\My Projects\Tic Tak Toy\bin\Debug\Tic Tak Toy.pdb
+D:\programming advices\My Projects\Tic Tak Toy\obj\Debug\Tic Tak Toy.csproj.AssemblyReference.cache
+D:\programming advices\My Projects\Tic Tak Toy\obj\Debug\Tic_Tak_Toy.Form1.resources
+D:\programming advices\My Projects\Tic Tak Toy\obj\Debug\Tic_Tak_Toy.Properties.Resources.resources
+D:\programming advices\My Projects\Tic Tak Toy\obj\Debug\Tic Tak Toy.csproj.GenerateResource.cache
+D:\programming advices\My Projects\Tic Tak Toy\obj\Debug\Tic Tak Toy.csproj.CoreCompileInputs.cache
+D:\programming advices\My Projects\Tic Tak Toy\obj\Debug\Tic Tak Toy.exe
+D:\programming advices\My Projects\Tic Tak Toy\obj\Debug\Tic Tak Toy.pdb
+D:\programming advices\My Projects\Tic Tak Toy\obj\Debug\Tic Tak Toy.exe.config
